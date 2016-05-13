@@ -5,9 +5,9 @@ set_time_limit(0);
 include("class/ana-class.php");
 
 $anamorph = new Anamorph();
-$anamorph->load("img/aaa.png");
+$anamorph->load("img/moustache2.jpg");
 
-$altezzacm=5; 
+$altezzacm=5;
 $lunghezzaoriginecm=10;
 $altezzaoriginecm=20;
 
